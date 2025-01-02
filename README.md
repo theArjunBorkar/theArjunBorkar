@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @theArjunBorkar
-- 👀 I’m interested in aviation and football
-- 🌱 I’m currently learning C++ and Python
+- 👋 Hi, I’m Arjun Borkar
+- 👀 I’m interested in aviation, football, and coding
+- 🌱 I can code in C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Call me he because I'll never be him
