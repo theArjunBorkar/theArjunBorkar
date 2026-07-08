@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun Borkar
-- 👀 I’m interested in aviation, football, and coding
+- 👀 I’m interested in aviation, football, and programming
 - 🌱 I know C++, Python, and Flask
 - 📫 How to reach me: arjunborkar2006@gmail.com
 - 😄 Pronouns: Call me he because I'll never be Him
